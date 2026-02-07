@@ -30,10 +30,11 @@ Efficiently render multiple items using `.map()` and show/hide elements based on
 # 🛠️ Prerequisites
 To get the most out of this jam, you should have a basic understanding of:
 * **HTML & CSS** (Structuring and styling web pages)
-* **Modern JavaScript** (ES6+) (Arrow functions, destructuring, and map/filter)
+* **Modern JavaScript** (ES6+) (Arrow functions, destructuring, and `map/filter`)
 
 # Getting Started
 - **Clone this repo:** `git clone <your-repo-url>`
 - **Install dependencies:** `npm install`
 - **Run the app:** `npm start`
+
 
