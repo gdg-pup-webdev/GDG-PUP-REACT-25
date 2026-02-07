@@ -1,16 +1,39 @@
-# React + Vite
+﻿# GDG-PUP-REACT-25
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 Welcome to the React.js Study Jam
+React is a powerful, open-source JavaScript library developed by Meta for building dynamic and interactive user interfaces.
+Whether you're looking to build a simple portfolio or a complex web application like Netflix or Airbnb, React is the industry-standard tool to get it done.
 
-Currently, two official plugins are available:
+# 🌟 Why React?
+* **Component-Based:** Build small, reusable pieces of UI (like buttons or navbars) and stack them like LEGO bricks to create complex apps.
+* **Fast Rendering:** Uses a Virtual DOM to update only the parts of the page that actually change, making your apps feel snappy.
+* **Massive Ecosystem:** A huge community means endless libraries, tools, and job opportunities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 📚 What You Will Learn
+This Study Jam is designed to take you from "Hello World" to building functional, stateful applications. Here is the roadmap:
 
-## React Compiler
+**1. The Building Blocks (JSX & Components)**
+Understand how to combine HTML and JavaScript using JSX and how to break your UI into independent Functional Components.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**2. Passing Data (Props)**
+Learn the "one-way data flow" by passing information from parent components to children using **Props**.
 
-## Expanding the ESLint configuration
+**3. Making it Interactive (State & Hooks)**
+Master the `useState` hook to handle data that changes over time (like counters, form inputs, or toggles) and `useEffect` for handling side effects like fetching data.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**4. Handling User Events**
+Learn how to respond to user actions like clicks, typing, and form submissions the "React way."
+
+**5. Lists and Conditional Rendering**
+Efficiently render multiple items using `.map()` and show/hide elements based on specific conditions.
+
+# 🛠️ Prerequisites
+To get the most out of this jam, you should have a basic understanding of:
+* **HTML & CSS** (Structuring and styling web pages)
+* **Modern JavaScript** (ES6+) (Arrow functions, destructuring, and `map/filter`)
+
+# Getting Started
+- **Clone this repo:** `git clone <your-repo-url>`
+- **Install dependencies:** `npm install`
+- **Run the app:** `npm start`
+
