@@ -1,9 +1,9 @@
-## 🧪 Post-Lab Activity: 
+## 🧪 Post-Jam Activity: 
 **Project Name:** [Insert Lab Name, e.g., The Weather Dashboard]
 **Estimated Time:** 30–45 minutes
 
 # 📝 Overview
-The goal of this post-lab activity is to solidify your understanding of State, Props, and Component Lifecycle. Now that we’ve built the base application together, it’s time to experiment, break things, and fix them.
+The goal of this post-jam activity is to solidify your understanding of State, Props, and Component Lifecycle. Now that we’ve built the base application together, it’s time to experiment, break things, and fix them.
 
 # 🎯 Learning Objectives
 **By the end of this activity, you will be able to:**
