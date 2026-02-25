@@ -1,0 +1,26 @@
+@import "tailwindcss";
+body {
+  background: #18191b;
+}
+
+@theme {
+  --color-google-blue: #4285f4;
+  --color-google-red: #ea4335;
+  --color-google-yellow: #fbbc04;
+  --color-google-green: #34a853;
+  --color-bg-body: #202124;
+  --color-bg-card: #303134;
+  --color-bg-card-hover: #3c4043;
+  --color-text-main: #e8eaed;
+  --color-text-muted: #9aa0a6;
+  --color-border-col: #5f6368;
+
+  --font-sans: 'Google Sans', 'Roboto', sans-serif;
+
+  --animate-slide-in: slideIn 0.3s ease;
+
+  @keyframes slideIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+}
